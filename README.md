@@ -17,7 +17,7 @@ Este projeto demonstra um pipeline completo de análise de dados, desde a limpez
 
 - **Python** - Pandas, NumPy, Matplotlib, Seaborn, SciPy
 - **SQL** - Queries demonstrativas em sintaxe MySQL
-- **Power BI** - Dashboard interativo para visualização executiva
+- **Power BI** - Dashboard para visualização
 - **Google Colab** - Ambiente de desenvolvimento
 
 ## Análises Realizadas
@@ -38,7 +38,7 @@ Este projeto demonstra um pipeline completo de análise de dados, desde a limpez
 
 ## Dashboard Power BI
 
-Dashboard interativo desenvolvido para monitoramento de satisfação do cliente e performance logística. Permite identificação de padrões regionais e gargalos operacionais através de filtros e análise multidimensional.
+Dashboard desenvolvido para monitoramento de satisfação do cliente e performance logística. Permite identificação de padrões regionais e gargalos operacionais através de filtros e análise multidimensional.
 
 ## Fonte dos Dados
 
