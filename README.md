@@ -49,4 +49,5 @@ O dataset contém informações de 100 mil pedidos realizados entre 2016 e 2018,
 ## Contato
 
 **Vitor Fernando Pires Alves**  
-vitor.fpiresalves@gmail.com
+- **Email:** vitor.fpiresalves@gmail.com
+- **LinkedIn:** [linkedin.com/in/vitor-pires-alves](https://www.linkedin.com/in/vitor-pires-alves/)
